@@ -12,7 +12,7 @@ import Footer from '../components/Footer';
 
 
 
-export const HOST = "https://e-commerce-backend-ssjr.onrender.com"
+export const HOST = "https://e-commerce-server-rho.vercel.app"
 const admin = (props) => {
   const navigate = useNavigate()
   
